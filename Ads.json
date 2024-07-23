@@ -18,10 +18,10 @@
     "FanBanner":"",
     "FanInterstitial":"",
     "FanNative":"",
-    "AdmobBanner":"ca-app-pub-1563977956808072/6535747827",
-    "AdmobInterstitial":"ca-app-pub-1563977956808072/7299516226",
-    "AdmobNative":"ca-app-pub-1563977956808072/5487741100",
-    "admob_reward":"ca-app-pub-1563977956808072/5207188438"
+    "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+    "admob_reward":"ca-app-pub-3940256099942544/5224354917"
   },
   "ControlApp":{
  "PlayerPackageName": "",
